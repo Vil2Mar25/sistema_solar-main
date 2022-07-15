@@ -1,0 +1,4 @@
+C:\Users\francueudes\Desktop\sistema_solar\Debug\sistema_solar.exe
+C:\Users\francueudes\Downloads\sistema_solar\Debug\sistema_solar.exe
+C:\Users\francueudes\Music\sistema_solar\Debug\sistema_solar.exe
+C:\Users\francueudes\Desktop\sistema_solar-main\Debug\sistema_solar.exe
